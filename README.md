@@ -1,19 +1,10 @@
 - 👋 Hi, I’m @ Bùi Điệp
 - 👀 I’m interested in everything
 - 🌱 I’m currently studying at MTA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Bui-Diep/Bui-Diep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi, I'm Quan Nguyen - aka [CodeXplore][website] = Software Engineer 🌱 
-
-
-- 🔭 I'm passionate about Machine Learning and Data Engineering
-- 🥅 Favorite Quote: Never Too Late to Pursue Your Dreams
-- ⚡ Fun fact: I work in Singapore but travel to Vietnam every two weeks before Covid 😅
 
 ### :zap: GitHub Stats
 
@@ -53,4 +44,3 @@ You can click the Preview link to take a look at your changes.
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.facebook.com/buidiep01)
 
-[website]: https://www.youtube.com/channel/UCN03cDDMfrD6Iyxk20_dvmQ

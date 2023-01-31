@@ -4,7 +4,7 @@
 <!---
 Bui-Diep/Bui-Diep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 ### :zap: GitHub Stats
 
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 <br />
-
+--->
 ---
 
 ### 📫 Contact me via:

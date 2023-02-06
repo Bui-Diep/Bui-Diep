@@ -1,3 +1,5 @@
+<img align="right" alt="vhdl" width="200px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />
+
 - 👋 Hi, I’m @ Bùi Điệp
 - 👀 I’m interested in everything
 - 🌱 I’m currently studying at MTA
@@ -17,6 +19,8 @@ You can click the Preview link to take a look at your changes. -->
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td> -->
 <!-- </tr> -->
 <!-- <table> -->
+<br />
+
 ---------------------
 ### Languages and Tools:
 
@@ -28,17 +32,12 @@ You can click the Preview link to take a look at your changes. -->
 <img align="left" alt="React" width="78px" src="https://bk.ibxk.com.br/2021/11/16/16122106683201.jpg" />
 <img align="left" alt="GraphQL" width="56px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
 <img align="left" alt="Node.js" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
-<br />
-<br />
-<br />
-<img align="left" alt="vhdl" width="250px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />
+
 <!-- 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
-<br /><br /><br />
 <br />
-<br />
-<br />
+<br /><br />
 
 ---------
 ### 📫 Contact me via:

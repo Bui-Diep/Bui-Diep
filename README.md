@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes. -->
 <img align="left" alt="React" width="78px" src="https://bk.ibxk.com.br/2021/11/16/16122106683201.jpg" />
 <img align="left" alt="GraphQL" width="56px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
 <img align="left" alt="Node.js" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
-<img align="left" alt="Node.js" width="150px" src="https://www.bo.infn.it/elettronica/wp-content/uploads/sites/14/2020/04/logo-fpga-400X200-300x150.jpg" />
+<img align="left" alt="vhdl" width="150px" src="https://www.bo.infn.it/elettronica/wp-content/uploads/sites/14/2020/04/logo-fpga-400X200-300x150.jpg" />
 <!-- 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->

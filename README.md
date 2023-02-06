@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ Bùi Điệp
 - 👀 I’m interested in everything
 - 🌱 I’m currently studying at MTA
--
-Bui-Diep/Bui-Diep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+<!-- Bui-Diep/Bui-Diep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. -->
 
 <!-- 
 ### :zap: GitHub Stats
@@ -42,5 +42,5 @@ You can click the Preview link to take a look at your changes.
 ### 📫 Contact me via:
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.facebook.com/buidiep01)
-<img align="right" alt="Node.js" width="50px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
+<img align="left" alt="Node.js" width="50px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
 <img align="right" alt="Node.js" width="48px" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" />

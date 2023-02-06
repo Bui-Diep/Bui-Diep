@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes. -->
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td> -->
 <!-- </tr> -->
 <!-- <table> -->
-
+---------------------
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,12 +35,14 @@ You can click the Preview link to take a look at your changes. -->
 <br />
 <br />
 <br />
-<br />
+
 <!-- - -->
 
-
+---------
 ### 📫 Contact me via:
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.facebook.com/buidiep01)
-<img align="left" alt="Node.js" width="50px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
-<img align="right" alt="Node.js" width="48px" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" />
+<img align="left" alt="Node.js" width="30px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
+<img align="right" alt="Node.js" width="30px" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" />
+
+----------------------

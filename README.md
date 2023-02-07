@@ -43,4 +43,8 @@ You can click the Preview link to take a look at your changes. -->
 <img align="right" alt="vhdl" width="150px" src="https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-1-min.gif" />
 
 ### 📫 Contact me via: [<img align="right" alt="facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />](https://www.facebook.com/buidiep01)
+<<<<<<< HEAD
 [<img align="right" alt="telegram" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />](https://t.me/buidiep01)
+=======
+[<img align="right" alt="telegram" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />](https://t.me/buidiep01)
+>>>>>>> 183c1ad64415a87a2e71f281b283a519a99e0531

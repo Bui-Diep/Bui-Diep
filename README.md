@@ -19,9 +19,7 @@ You can click the Preview link to take a look at your changes. -->
   <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td> -->
 <!-- </tr> -->
 <!-- <table> -->
-<br />
 
----------------------
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

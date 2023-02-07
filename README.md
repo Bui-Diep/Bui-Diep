@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes. -->
 
 ---------
 ### 📫 Contact me via:
-[<img align="left" alt="facebook" width="25px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />](https://www.facebook.com/buidiep01)
-[<img align="LEFT" alt="telegram" width="25px" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" />](https://t.me/buidiep01)
+[<img align="left" alt="facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />](https://www.facebook.com/buidiep01)
+[<img align="LEFT" alt="telegram" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />](https://t.me/buidiep01)
 <br />
 
 ---------

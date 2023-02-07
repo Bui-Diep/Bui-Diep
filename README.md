@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ Bùi Điệp
 - 👀 I’m interested in everything
 - 🌱 I’m currently studying at MTA
-
++ Major in mechatronics - Aerospace department - MTA
 <!-- Bui-Diep/Bui-Diep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
 
@@ -25,16 +25,16 @@ You can click the Preview link to take a look at your changes. -->
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png" />
-<img align="left" alt="CSS3" width="77px" src="https://upload.wikimedia.org/wikipedia/en/0/0a/XilinxISE_DS_Logo.jpg" />
-<img align="left" alt="Sass" width="58px" src="https://static-00.iconduck.com/assets.00/qtcreator-icon-512x478-bhacl6u3.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://www.nettimelogic.com/resources/FpgaServices.png" />
-<img align="left" alt="React" width="78px" src="https://bk.ibxk.com.br/2021/11/16/16122106683201.jpg" />
-<img align="left" alt="GraphQL" width="56px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
-<img align="left" alt="Node.js" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
+<img align="left" alt="Altium Designer" width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png" />
+<img align="left" alt="ISE" width="77px" src="https://upload.wikimedia.org/wikipedia/en/0/0a/XilinxISE_DS_Logo.jpg" />
+<img align="left" alt="QTcreator" width="58px" src="https://static-00.iconduck.com/assets.00/qtcreator-icon-512x478-bhacl6u3.png" />
+<img align="left" alt="FPGA" width="50px" src="https://www.nettimelogic.com/resources/FpgaServices.png" />
+<img align="left" alt="Proteus" width="78px" src="https://bk.ibxk.com.br/2021/11/16/16122106683201.jpg" />
+<img align="left" alt="Github" width="56px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
+<img align="left" alt="Arduino" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
 
-<!-- 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="ChatGPT" width="50px" src="https://brandlogovector.com/wp-content/uploads/2023/01/ChatGPT-Icon-Logo-PNG.png" />
+<!--
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 <br />
 <br /><br />

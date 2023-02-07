@@ -39,11 +39,7 @@ You can click the Preview link to take a look at your changes. -->
 
 ---------
 ### 📫 Contact me via:
-
-[![facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.facebook.com/buidiep01)
-<img align="left" alt="Node.js" width="25px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
-
-[![telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://t.me/buidiep01)
-<img align="LEFT" alt="Node.js" width="25px" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" />
+[<img align="left" alt="facebook" width="25px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />](https://www.facebook.com/buidiep01)
+[<img align="LEFT" alt="telegram" width="25px" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" />](https://t.me/buidiep01)
 
 ---------

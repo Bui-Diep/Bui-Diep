@@ -40,11 +40,10 @@ You can click the Preview link to take a look at your changes. -->
 ---------
 ### 📫 Contact me via:
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.facebook.com/buidiep01)
-<img align="left" alt="Node.js" width="30px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
+[![facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.facebook.com/buidiep01)
+<img align="left" alt="Node.js" width="25px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://t.me/buidiep01)
-<img align="LEFT" alt="Node.js" width="30px" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" />
-
+[![telegram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://t.me/buidiep01)
+<img align="LEFT" alt="Node.js" width="25px" src="https://w7.pngwing.com/pngs/224/500/png-transparent-telegram-logo-computer-icons-others-miscellaneous-blue-angle.png" />
 
 ---------

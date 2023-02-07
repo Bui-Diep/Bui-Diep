@@ -26,10 +26,11 @@ You can click the Preview link to take a look at your changes. -->
 <img align="left" alt="ISE" width="77px" src="https://upload.wikimedia.org/wikipedia/en/0/0a/XilinxISE_DS_Logo.jpg" />
 <img align="left" alt="QTcreator" width="58px" src="https://static-00.iconduck.com/assets.00/qtcreator-icon-512x478-bhacl6u3.png" />
 <img align="left" alt="FPGA" width="50px" src="https://www.nettimelogic.com/resources/FpgaServices.png" />
-<br />
-<br />
-<br />
 <img align="left" alt="Proteus" width="78px" src="https://bk.ibxk.com.br/2021/11/16/16122106683201.jpg" />
+<br />
+<br />
+<br />
+
 <img align="left" alt="Github" width="56px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
 <img align="left" alt="Arduino" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
 

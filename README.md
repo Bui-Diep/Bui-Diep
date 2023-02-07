@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes. -->
 
 
 ## Languages and Tools:
-  <img align="right" alt="vhdl" width="230px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />
+  <img align="right" alt="vhdl" width="300px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Altium Designer" width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png" />
@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes. -->
 <br /><br /><br />
 
 <img align="left" alt="Github" width="56px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
-<img align="" alt="Arduino" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
+<img align="left" alt="Arduino" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
 <img align="left" alt="ChatGPT" width="50px" src="https://brandlogovector.com/wp-content/uploads/2023/01/ChatGPT-Icon-Logo-PNG.png" />
 
 <!--

@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes. -->
 <img align="left" alt="FPGA" width="40px" src="https://www.nettimelogic.com/resources/FpgaServices.png" />
 <img align="left" alt="Proteus" width="64px" src="https://bk.ibxk.com.br/2021/11/16/16122106683201.jpg" />
 
-<br /><br /><br />
+<br /><br />
 
 <img align="left" alt="Github" width="42px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
 <img align="left" alt="Arduino" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />

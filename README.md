@@ -21,20 +21,20 @@ You can click the Preview link to take a look at your changes. -->
 ## Languages and Tools:
 [<img align="right" alt="vhdl" width="290px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />](https://github.com/Bui-Diep/FPGA_TOPIC)
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Altium Designer" width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png" />
-<img align="left" alt="ISE" width="77px" src="https://upload.wikimedia.org/wikipedia/en/0/0a/XilinxISE_DS_Logo.jpg" />
-<img align="left" alt="QTcreator" width="58px" src="https://static-00.iconduck.com/assets.00/qtcreator-icon-512x478-bhacl6u3.png" />
-<img align="left" alt="FPGA" width="50px" src="https://www.nettimelogic.com/resources/FpgaServices.png" />
-<img align="left" alt="Proteus" width="78px" src="https://bk.ibxk.com.br/2021/11/16/16122106683201.jpg" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Altium Designer" width="40px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png" />
+<img align="left" alt="ISE" width="62px" src="https://upload.wikimedia.org/wikipedia/en/0/0a/XilinxISE_DS_Logo.jpg" />
+<img align="left" alt="QTcreator" width="47px" src="https://static-00.iconduck.com/assets.00/qtcreator-icon-512x478-bhacl6u3.png" />
+<img align="left" alt="FPGA" width="40px" src="https://www.nettimelogic.com/resources/FpgaServices.png" />
+<img align="left" alt="Proteus" width="64px" src="https://bk.ibxk.com.br/2021/11/16/16122106683201.jpg" />
 
 <br /><br /><br />
 
-<img align="left" alt="Github" width="56px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
-<img align="left" alt="Arduino" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
-<img align="left" alt="Ubuntu" width="50px" src="https://w7.pngwing.com/pngs/884/578/png-transparent-square-red-and-white-logo-illustration-orange-apps-start-here-ubuntu-orange-linux-unity-thumbnail.png" />
-<img align="left" alt="VHDL" width="55px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" />
-<img align="left" alt="ChatGPT" width="50px" src="https://brandlogovector.com/wp-content/uploads/2023/01/ChatGPT-Icon-Logo-PNG.png" />
+<img align="left" alt="Github" width="42px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
+<img align="left" alt="Arduino" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
+<img align="left" alt="Ubuntu" width="40px" src="https://w7.pngwing.com/pngs/884/578/png-transparent-square-red-and-white-logo-illustration-orange-apps-start-here-ubuntu-orange-linux-unity-thumbnail.png" />
+<img align="left" alt="VHDL" width="45px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" />
+<img align="left" alt="ChatGPT" width="40px" src="https://brandlogovector.com/wp-content/uploads/2023/01/ChatGPT-Icon-Logo-PNG.png" />
 
 <!--
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->

@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes. -->
 
 <img align="left" alt="Github" width="56px" src="https://png.pngitem.com/pimgs/s/128-1280162_github-logo-png-cat-transparent-png.png" />
 <img align="left" alt="Arduino" width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
-<img align="left" alt="Ubuntu" width="50px" src="https://w7.pngwing.com/pngs/829/771/png-transparent-ubuntu-logo-linux-operating-systems-linux-text-orange-logo-thumbnail.png" />
+<img align="left" alt="Ubuntu" width="50px" src="https://w7.pngwing.com/pngs/884/578/png-transparent-square-red-and-white-logo-illustration-orange-apps-start-here-ubuntu-orange-linux-unity-thumbnail.png" />
 <img align="left" alt="VHDL" width="55px" src="https://play-lh.googleusercontent.com/xeuSfQHt8wEb-JdcXLtReGF-KO8_Rd2UMOL0vSB6bS9qlxdAGQ0VR4mM9wVeEb76EA" />
 <img align="left" alt="ChatGPT" width="50px" src="https://brandlogovector.com/wp-content/uploads/2023/01/ChatGPT-Icon-Logo-PNG.png" />
 

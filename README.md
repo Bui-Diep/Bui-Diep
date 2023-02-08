@@ -1,6 +1,4 @@
-[<img align="right" alt="vhdl" width="138px" src="https://img6.thuthuatphanmem.vn/uploads/2022/03/04/anh-dong-xin-chao-powerpoint-dep-cho-thuyet-trinh_021856460.gif" />](https://github.com/Bui-Diep/FPGA_TOPIC)
-[<img align="right" alt="telegram" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />](https://t.me/buidiep01)
-
+<img align="right" alt="vhdl" width="138px" src="https://img6.thuthuatphanmem.vn/uploads/2022/03/04/anh-dong-xin-chao-powerpoint-dep-cho-thuyet-trinh_021856460.gif" />
 
 - 👋 Hi, I’m @ Bùi Điệp
 - 👀 I’m interested in everything
@@ -21,7 +19,7 @@ You can click the Preview link to take a look at your changes. -->
 
 
 ## Languages and Tools:
-<img align="right" alt="vhdl" width="290px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />
+[<img align="right" alt="vhdl" width="290px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />](https://github.com/Bui-Diep/FPGA_TOPIC)
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Altium Designer" width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png" />

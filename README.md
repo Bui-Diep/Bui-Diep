@@ -1,4 +1,6 @@
 [<img align="right" alt="vhdl" width="138px" src="https://img6.thuthuatphanmem.vn/uploads/2022/03/04/anh-dong-xin-chao-powerpoint-dep-cho-thuyet-trinh_021856460.gif" />](https://github.com/Bui-Diep/FPGA_TOPIC)
+[<img align="right" alt="telegram" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />](https://t.me/buidiep01)
+
 
 - 👋 Hi, I’m @ Bùi Điệp
 - 👀 I’m interested in everything

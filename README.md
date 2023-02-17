@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes. -->
 
 
 ## Languages and Tools:
-[<img align="right" alt="vhdl" width="380px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />](https://github.com/Bui-Diep/FPGA_TOPIC)
+[<img align="right" alt="vhdl" width="400px" src="https://user-images.githubusercontent.com/102669394/217030431-47038250-3124-4893-bd5a-2b96d5e982d7.jpg" />](https://github.com/Bui-Diep/FPGA_TOPIC)
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Altium Designer" width="40px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_55da269609bde6556a387629b0594314/altium-altium-designer.png" />
@@ -44,5 +44,4 @@ You can click the Preview link to take a look at your changes. -->
 
 <!-- <img align="right" alt="vhdl" width="150px" src="https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-1-min.gif" /> -->
 
-### 📫 Contact me via:
->> [<img align="left" alt="facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />](https://www.facebook.com/buidiep01) [<img align="left" alt="telegram" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />](https://t.me/buidiep01)
+### 📫 Contact me via: [<img align="left" alt="facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" />](https://www.facebook.com/buidiep01) [<img align="left" alt="telegram" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />](https://t.me/buidiep01)

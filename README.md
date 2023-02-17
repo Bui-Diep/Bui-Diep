@@ -3,7 +3,8 @@
 - 👋 I’m # Bùi Điệp
 - 👀 Research fields: Digital electronics, FPGA programming, Electronic circuit design, PLC system design !!!
 
-+ 🌱 Major in mechatronics - Aerospace department - MTA.
++ 🌱 Major in mechatronics - Aerospace department - MTA
+>>>>>>> 🌐Adress: 236 HoangQuocViet - BacTuLiem - HaNoi - VietNam
 <!-- Bui-Diep/Bui-Diep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->
 
@@ -48,5 +49,3 @@ You can click the Preview link to take a look at your changes. -->
 [<img align="right" alt="telegram" width="25px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />](https://t.me/buidiep01)
 
 <br />
-
->>>>>>> 🌐Adress: 236 HoangQuocViet - BacTuLiem - HaNoi - VietNam

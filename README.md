@@ -2,6 +2,7 @@
 
 - 👋 I’m @ Bùi Điệp
 - 👀 Research fields: Digital electronics, FPGA programming, Electronic circuit design, PLC system design !!!
+
 +🌱 Major in mechatronics - Aerospace department - MTA
 <!-- Bui-Diep/Bui-Diep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. -->

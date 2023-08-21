@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes. -->
 <img align="left" alt="Arduino" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" />
 <img align="left" alt="Ubuntu" width="40px" src="https://w7.pngwing.com/pngs/884/578/png-transparent-square-red-and-white-logo-illustration-orange-apps-start-here-ubuntu-orange-linux-unity-thumbnail.png" />
 <img align="left" alt="VHDL" width="43px" src="https://vide-software.gallerycdn.vsassets.io/extensions/vide-software/v4pvhdlforprofessionals/1.6.0/1672692563810/Microsoft.VisualStudio.Services.Icons.Default" />
+<img align="left" alt="ChatGPT" width="35px" src="https://th.bing.com/th/id/OIP.sLoEjjsa3NUnHyNTLClhaQHaHa?w=158&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" />
 <img align="left" alt="ChatGPT" width="40px" src="https://brandlogovector.com/wp-content/uploads/2023/01/ChatGPT-Icon-Logo-PNG.png" />
 
 <!--
